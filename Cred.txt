@@ -1,2 +1,0 @@
-username = adi123
-password = 12345
